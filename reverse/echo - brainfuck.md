@@ -6,3 +6,6 @@ that a functions generates https://en.wikipedia.org/wiki/Brainfuck Code. While a
 one can see the flag{}. But the Brainfuck Code has a sequence at the end `>[+]` which shift's 
 it out. So only "0" appear. Replacing `>[+]` with `>>>>>` and reexecution gves the flag.
 
+
+
+https://ctftime.org/writeup/9902
